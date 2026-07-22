@@ -1,0 +1,30 @@
+fitmode-crm/
+│
+├── app/
+│   ├── Controllers/
+│   ├── Models/
+│   ├── Views/
+│   ├── Core/
+│   └── Helpers/
+│
+├── config/
+│   ├── config.php
+│   └── database.php
+│
+├── database/
+│   └── database.sql
+│
+├── public/
+│   ├── index.php
+│   ├── login.php
+│   ├── logout.php
+│   └── assets/
+│       ├── css/
+│       │   └── style.css
+│       ├── js/
+│       │   └── script.js
+│       └── img/
+│
+├── storage/
+│
+└── .htaccess
